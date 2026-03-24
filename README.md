@@ -39,7 +39,7 @@ Includes B10 life and MTTF calculations.
 ---
 
 ## Part B — FA Report
-📄 [Download Full Report (PDF)](Apple_PQE_FA_Report_v2.pdf)
+📄 [Download Full Report (PDF)](Apple_PQE_FA_SampleReport.pdf)
 
 Report structure follows real Apple PQE methodology:
 - Problem description & failure reproduction
